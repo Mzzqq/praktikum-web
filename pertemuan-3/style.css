@@ -1,9 +1,12 @@
 body {
     background: yellow;
+    margin: 100px;
+    padding: 100px;
 }
 
 #gambar {
     width: 8rem;
     height: 100px;
     border-radius: 25px;
+    margin-left: 50%;
 }
