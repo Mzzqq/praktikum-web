@@ -1,5 +1,6 @@
 .container {
     background: lightcoral;
+    display: flex;
 }
 
 .child1 {
