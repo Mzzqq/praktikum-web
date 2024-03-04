@@ -1,6 +1,7 @@
 .container {
     background: lightcoral;
     display: flex;
+    justify-content: center;
 }
 
 .child1 {
